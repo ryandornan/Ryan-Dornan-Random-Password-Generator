@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    background: rgb(34, 32, 51);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center
+}
+
+h1 span {
+    color: rgb(92, 255, 179);
+}
+
+button {
+    background: rgb(92, 255, 179);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px; 
+}
+
+input {
+    background: rgb(51, 50, 66);
+    color: rgb(92, 255, 179);
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-top:30px;
+}
